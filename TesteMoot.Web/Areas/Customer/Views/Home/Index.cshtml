@@ -1,0 +1,29 @@
+﻿@model ICollection<Cliente>
+
+<div class="row pb-3">
+    @foreach (var cliente in Model)
+    {
+        <div class="col-lg-3 col-sm-6">
+            <div class="row p-2">
+                <div class="col-12 p-1">
+                    <div class="card border-0 p-3 shadow  border-top border-5 rounded"> 
+                        <img src="@cliente.ImageUrl" class="card-img-top rounded"/>
+                        <div class="card-body pb-0">
+                            <div class="pl-1">
+                                <p class="card-title h6 text-dark opacity-75 text-uppercase text-center"><b>@cliente.Id</b> - @cliente.Nome</p>
+                                <p class="text-center" style="font-size: 12px; color: blue"><b>@cliente.Email</b></p>
+                            </div>
+                        </div>
+                        <div>
+                            <a asp-action="Details"
+                            asp-route-clienteId="@cliente.Id"
+                            class="btn btn-primary bg-gradient border-0 form-control">
+                                Endereços
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

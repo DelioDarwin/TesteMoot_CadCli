@@ -1,0 +1,12 @@
+C:\Testes\Teste MootIT\TesteMoot.Models\bin\Debug\net8.0\TesteMoot.Models.deps.json
+C:\Testes\Teste MootIT\TesteMoot.Models\bin\Debug\net8.0\TesteMoot.Models.dll
+C:\Testes\Teste MootIT\TesteMoot.Models\bin\Debug\net8.0\TesteMoot.Models.pdb
+C:\Testes\Teste MootIT\TesteMoot.Models\obj\Debug\net8.0\TesteMoot.Models.csproj.AssemblyReference.cache
+C:\Testes\Teste MootIT\TesteMoot.Models\obj\Debug\net8.0\TesteMoot.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testes\Teste MootIT\TesteMoot.Models\obj\Debug\net8.0\TesteMoot.Models.AssemblyInfoInputs.cache
+C:\Testes\Teste MootIT\TesteMoot.Models\obj\Debug\net8.0\TesteMoot.Models.AssemblyInfo.cs
+C:\Testes\Teste MootIT\TesteMoot.Models\obj\Debug\net8.0\TesteMoot.Models.csproj.CoreCompileInputs.cache
+C:\Testes\Teste MootIT\TesteMoot.Models\obj\Debug\net8.0\TesteMoot.Models.dll
+C:\Testes\Teste MootIT\TesteMoot.Models\obj\Debug\net8.0\refint\TesteMoot.Models.dll
+C:\Testes\Teste MootIT\TesteMoot.Models\obj\Debug\net8.0\TesteMoot.Models.pdb
+C:\Testes\Teste MootIT\TesteMoot.Models\obj\Debug\net8.0\ref\TesteMoot.Models.dll

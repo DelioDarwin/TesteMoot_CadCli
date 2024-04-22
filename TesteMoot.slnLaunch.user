@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "TesteMoot.WebApi\\TesteMoot.WebApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Name": "TesteMoot.Web\\TesteMootWeb.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      }
+    ]
+  }
+]

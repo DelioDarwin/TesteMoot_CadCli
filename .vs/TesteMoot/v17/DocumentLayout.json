@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Testes\\Teste MootIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|c:\\testes\\teste mootit\\testemoot.web\\areas\\admin\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|solutionrelative:testemoot.web\\areas\\admin\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|c:\\testes\\teste mootit\\testemoot.web\\areas\\admin\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|solutionrelative:testemoot.web\\areas\\admin\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|c:\\testes\\teste mootit\\testemoot.web\\areas\\admin\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|solutionrelative:testemoot.web\\areas\\admin\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|c:\\testes\\teste mootit\\testemoot.web\\areas\\admin\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|solutionrelative:testemoot.web\\areas\\admin\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|c:\\testes\\teste mootit\\testemoot.web\\areas\\admin\\views\\endereco\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|solutionrelative:testemoot.web\\areas\\admin\\views\\endereco\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|c:\\testes\\teste mootit\\testemoot.web\\areas\\admin\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|solutionrelative:testemoot.web\\areas\\admin\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|c:\\testes\\teste mootit\\testemoot.web\\areas\\admin\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|solutionrelative:testemoot.web\\areas\\admin\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|c:\\testes\\teste mootit\\testemoot.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|solutionrelative:testemoot.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|c:\\testes\\teste mootit\\testemoot.web\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|solutionrelative:testemoot.web\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|c:\\testes\\teste mootit\\testemoot.webapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|solutionrelative:testemoot.webapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|c:\\testes\\teste mootit\\testemoot.webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|solutionrelative:testemoot.webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041BAA31-15C7-45DF-ADA6-7A208C873257}|TesteMoot.Models\\TesteMoot.Models.csproj|c:\\testes\\teste mootit\\testemoot.models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041BAA31-15C7-45DF-ADA6-7A208C873257}|TesteMoot.Models\\TesteMoot.Models.csproj|solutionrelative:testemoot.models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|c:\\testes\\teste mootit\\testemoot.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|solutionrelative:testemoot.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|c:\\testes\\teste mootit\\testemoot.webapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|solutionrelative:testemoot.webapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AA759E-5E82-496B-B62D-52CDD16CA51E}|TesteMoot.DataAccess\\TesteMoot.DataAccess.csproj|c:\\testes\\teste mootit\\testemoot.dataaccess\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AA759E-5E82-496B-B62D-52CDD16CA51E}|TesteMoot.DataAccess\\TesteMoot.DataAccess.csproj|solutionrelative:testemoot.dataaccess\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|c:\\testes\\teste mootit\\testemoot.web\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|solutionrelative:testemoot.web\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AA759E-5E82-496B-B62D-52CDD16CA51E}|TesteMoot.DataAccess\\TesteMoot.DataAccess.csproj|c:\\testes\\teste mootit\\testemoot.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AA759E-5E82-496B-B62D-52CDD16CA51E}|TesteMoot.DataAccess\\TesteMoot.DataAccess.csproj|solutionrelative:testemoot.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|c:\\testes\\teste mootit\\testemoot.web\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|solutionrelative:testemoot.web\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|c:\\testes\\teste mootit\\testemoot.web\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94E19B2-D910-4C60-AA37-F26A73DAD8CE}|TesteMoot.Web\\TesteMootWeb.csproj|solutionrelative:testemoot.web\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041BAA31-15C7-45DF-ADA6-7A208C873257}|TesteMoot.Models\\TesteMoot.Models.csproj|c:\\testes\\teste mootit\\testemoot.models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041BAA31-15C7-45DF-ADA6-7A208C873257}|TesteMoot.Models\\TesteMoot.Models.csproj|solutionrelative:testemoot.models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:593197435:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173742603:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:193273487:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:190944612:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:754498114:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:724977859:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:764202434:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:766321797:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:760188169:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:763163754:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Edit.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T07:42:24.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Admin\\Views\\Endereco\\Create.cshtml",
+              "RelativeDocumentMoniker": "TesteMoot.Web\\Areas\\Admin\\Views\\Endereco\\Create.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Admin\\Views\\Endereco\\Create.cshtml",
+              "RelativeToolTip": "TesteMoot.Web\\Areas\\Admin\\Views\\Endereco\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T07:42:21.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T12:47:42.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Delete.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Delete.cshtml",
+              "RelativeToolTip": "TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T12:47:41.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "TesteMoot.Web\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "TesteMoot.Web\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T12:41:49.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "TesteMoot.Web\\Areas\\Admin\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T12:35:58.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.DataAccess\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "TesteMoot.DataAccess\\Repository\\ClienteRepository.cs",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.DataAccess\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "TesteMoot.DataAccess\\Repository\\ClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:38:03.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "TesteMoot.WebApi\\Program.cs",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.WebApi\\Program.cs",
+              "RelativeToolTip": "TesteMoot.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:28:00.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "TesteMoot.Models\\Cliente.cs",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.Models\\Cliente.cs",
+              "RelativeToolTip": "TesteMoot.Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:16:59.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TesteMoot.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TesteMoot.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwE4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T09:55:01.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "TesteMoot.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "TesteMoot.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T09:56:25.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TesteMoot.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TesteMoot.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T09:56:24.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TesteMoot.Web\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TesteMoot.Web\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T09:56:20.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "TesteMoot.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "TesteMoot.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T09:31:10.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.WebApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TesteMoot.WebApi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.WebApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TesteMoot.WebApi\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T08:18:19.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.WebApi\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "TesteMoot.WebApi\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.WebApi\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "TesteMoot.WebApi\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAgwH4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T08:08:46.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.WebApi\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "TesteMoot.WebApi\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.WebApi\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "TesteMoot.WebApi\\Controllers\\EnderecoController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAowIgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:53:05.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "TesteMoot.Models\\Endereco.cs",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.Models\\Endereco.cs",
+              "RelativeToolTip": "TesteMoot.Models\\Endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:52:59.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Admin\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "TesteMoot.Web\\Areas\\Admin\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Admin\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "TesteMoot.Web\\Areas\\Admin\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAGIBAAAAAAAAAAAgwGwBAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:51:01.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Admin\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "TesteMoot.Web\\Areas\\Admin\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Testes\\Teste MootIT\\TesteMoot.Web\\Areas\\Admin\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "TesteMoot.Web\\Areas\\Admin\\Controllers\\EnderecoController.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAkwBMBAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:50:48.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

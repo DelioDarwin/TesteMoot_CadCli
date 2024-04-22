@@ -1,0 +1,62 @@
+﻿@model Cliente
+
+<div class="card shadow border-0 mt-4">
+
+    
+    @if (TempData["message"] != null)
+    {
+        <script type="text/javascript">
+            alert(@Html.Raw(TempData["message"]));
+        </script>
+    }
+
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+    <div class="row">
+        <div class="col-12 text-center">
+                <h2 class="text-white py-2">Cadastrar Cliente</h2>
+        </div>
+    </div>
+    </div>
+     <div class="card-body p-4">
+        <form method="post" class="row" enctype="multipart/form-data">
+            <div class="border p-3">
+                <div asp-validation-summary="ModelOnly"></div>
+                <div class="form-floating py-2 col-12">
+                    <input asp-for="Nome" class="form-control border-0 shadow" />
+                    <label asp-for="Nome" class="ms-2"></label>
+                    <span asp-validation-for="Nome" class="text-danger"></span>
+                </div>
+                <div class="form-floating py-2 col-12">
+                    <input asp-for="Email" class="form-control border-0 shadow" />
+                    <label asp-for="Email" class="ms-2"></label>
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-floating py-2 col-12">
+                    <input type="file" name="file" class="form-control border-0 shadow" />
+                    <label asp-for="ImageUrl" class="ms-2"></label>
+                </div>
+                <div class="row pt-2">
+                    <div class="col-6 col-md-3">
+                        <button type="submit" class="btn btn-primary form-control">Cadastrar</button>
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <a asp-controller="Cliente" asp-action="Index" class="btn btn-outline-primary border  form-control">
+                            Lista de Cliente
+                        </a>
+                    </div>
+                </div>
+
+
+            </div>
+        </form>
+    </div> 
+</div>
+
+
+
+
+@section Scripts{
+    @{
+    <partial name="_ValidationScriptsPartial"/>
+    }
+}

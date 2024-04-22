@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Testes\\Teste MoonIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|c:\\testes\\teste moonit\\testemoot.webapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|solutionrelative:testemoot.webapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\areas\\admin\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\areas\\admin\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|c:\\testes\\teste moonit\\testemoot.webapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|solutionrelative:testemoot.webapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|c:\\testes\\teste moonit\\testemoot.webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|solutionrelative:testemoot.webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|c:\\testes\\teste moonit\\testemoot.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|solutionrelative:testemoot.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|c:\\testes\\teste moonit\\testemoot.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|solutionrelative:testemoot.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E222D6C-F754-425E-A116-8142B42A0392}|Bulky.DataAccess\\TesteMoon.DataAccess.csproj|c:\\testes\\teste moonit\\bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E222D6C-F754-425E-A116-8142B42A0392}|Bulky.DataAccess\\TesteMoon.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E222D6C-F754-425E-A116-8142B42A0392}|Bulky.DataAccess\\TesteMoon.DataAccess.csproj|c:\\testes\\teste moonit\\bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E222D6C-F754-425E-A116-8142B42A0392}|Bulky.DataAccess\\TesteMoon.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|c:\\testes\\teste moonit\\testemoot.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47017E17-173A-43A6-8761-032C1A26399A}|TesteMoot.WebApi\\TesteMoot.WebApi.csproj|solutionrelative:testemoot.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\areas\\admin\\views\\endereco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\endereco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\areas\\admin\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\areas\\admin\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|c:\\testes\\teste moonit\\bulkyweb\\areas\\admin\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|BulkyWeb\\TesteMootWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:593197435:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173742603:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:193273487:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:190944612:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:754498114:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:724977859:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T04:41:07.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T04:29:00.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "BulkyWeb\\appsettings.json",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\appsettings.json",
+              "RelativeToolTip": "BulkyWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T03:51:45.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:42:50.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\TesteMoot.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TesteMoot.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\TesteMoot.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TesteMoot.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T02:30:22.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\TesteMoot.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TesteMoot.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\TesteMoot.WebApi\\appsettings.json",
+              "RelativeToolTip": "TesteMoot.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T02:29:56.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Program.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Program.cs",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Program.cs",
+              "RelativeToolTip": "BulkyWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:29:26.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\TesteMoot.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "TesteMoot.WebApi\\Program.cs",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\TesteMoot.WebApi\\Program.cs",
+              "RelativeToolTip": "TesteMoot.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:22:52.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\TesteMoot.WebApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TesteMoot.WebApi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\TesteMoot.WebApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TesteMoot.WebApi\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:15:35.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Admin\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Admin\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAswPQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:14:58.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Admin\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Admin\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\EnderecoController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:14:20.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BulkyWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BulkyWeb\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T02:11:19.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\Bulky.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\Bulky.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T02:10:58.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\TesteMoot.WebApi\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "TesteMoot.WebApi\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\TesteMoot.WebApi\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "TesteMoot.WebApi\\Controllers\\EnderecoController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAwwHcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T01:03:04.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\TesteMoot.WebApi\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "TesteMoot.WebApi\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\TesteMoot.WebApi\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "TesteMoot.WebApi\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T01:01:23.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T01:01:07.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T23:58:09.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Admin\\Views\\Endereco\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Endereco\\Index.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Admin\\Views\\Endereco\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Endereco\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T23:57:48.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T23:57:53.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T23:57:49.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T23:57:48.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Admin\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Admin\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T23:57:44.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Admin\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Admin\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T23:57:41.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Admin\\Views\\Cliente\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Cliente\\Delete.cshtml",
+              "ToolTip": "C:\\Testes\\Teste MoonIT\\BulkyWeb\\Areas\\Admin\\Views\\Cliente\\Delete.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Cliente\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T23:57:21.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

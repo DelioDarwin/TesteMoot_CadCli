@@ -1,0 +1,17 @@
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\bin\Debug\net8.0\TesteMoot.DataAccess.deps.json
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\bin\Debug\net8.0\TesteMoot.DataAccess.runtimeconfig.json
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\bin\Debug\net8.0\TesteMoot.DataAccess.dll
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\bin\Debug\net8.0\TesteMoot.DataAccess.pdb
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\bin\Debug\net8.0\TesteMoot.Models.dll
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\bin\Debug\net8.0\TesteMoot.Models.pdb
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\obj\Debug\net8.0\TesteMoot.DataAccess.csproj.AssemblyReference.cache
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\obj\Debug\net8.0\TesteMoot.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\obj\Debug\net8.0\TesteMoot.DataAccess.AssemblyInfoInputs.cache
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\obj\Debug\net8.0\TesteMoot.DataAccess.AssemblyInfo.cs
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\obj\Debug\net8.0\TesteMoot.DataAccess.csproj.CoreCompileInputs.cache
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\obj\Debug\net8.0\TesteMoo.AEA8436F.Up2Date
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\obj\Debug\net8.0\TesteMoot.DataAccess.dll
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\obj\Debug\net8.0\refint\TesteMoot.DataAccess.dll
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\obj\Debug\net8.0\TesteMoot.DataAccess.pdb
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\obj\Debug\net8.0\TesteMoot.DataAccess.genruntimeconfig.cache
+C:\Testes\Teste MootIT\TesteMoot.DataAccess\obj\Debug\net8.0\ref\TesteMoot.DataAccess.dll

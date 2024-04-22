@@ -1,0 +1,65 @@
+﻿@model ICollection<Endereco>
+
+<div class="row pb-3">
+    @if (Model == null)
+    {
+        <div class="card-header bg-secondary bg-gradient text-light py-4">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h3 class="text-white text-uppercase">Não foi cadastrado nenhum endereço para este cliente</h3>
+                </div>
+            </div>
+        </div>
+    }
+    @if (Model.Count != 0)
+    {
+        <div class="row">
+            <div class="col-6 col-md-2 pb-1">
+                <a asp-action="Index" class="btn btn-outline-primary bg-gradient mb-5 fw-semibold btn-sm text-uppercase">
+                    <small>Home</small>
+                </a>
+            </div>
+        </div>
+        <div class="card shadow border-0 mt-4 mb-4">
+            <div class="card-header bg-secondary bg-gradient text-light py-4">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h3 class="text-white text-uppercase">Cod Cliente: @Model.FirstOrDefault().ClienteId</h3>               
+                    </div>
+                </div>
+            </div>
+        @foreach (var endereco in Model)
+        {
+                <div class="card-body">
+                    <div class="py-3">
+
+                        <div class="row">        
+                            <div class="col-12 col-lg-6 offset-lg-1">
+                                <div class="col-12 col-md-6" style=" display:inline;">
+                                    <span>Logradouro: <b>@endereco.Logradouro, @endereco.Numero</b></span>
+                                </div>
+                                <div class="col-12 col-md-6 pb-4 pt-4">
+                                    <span>Complemento: <b>@endereco.Complemento</b></span>
+                                </div>
+                                <div class="col-12 col-md-6 pb-4" >
+                                    <span>Bairro: <b>@endereco.Bairro</b></span>
+                                </div>
+                                <div class="col-12 col-md-6 pb-4">
+                                    <span>Cidade: <b>@endereco.Cidade</b></span>
+                                </div>
+                                <div class="col-12 col-md-6 pb-4" >
+                                    <span>Estado: <b>@endereco.Estado</b></span>
+                                </div>
+                                <div class="col-12 col-md-6 pb-4">
+                                    <span>País: <b>@endereco.Pais</b></span>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+        <hr />
+    }
+    </div>
+}
+</div>
